@@ -1,12 +1,9 @@
-Readme · MD
-Copy
+## 💫 About Me:
+Hi, I'm Abhishek Yadav! I'm a passionate full-stack developer specializing in building modern web applications with a focus on both frontend and backend technologies. I love problem-solving and exploring new technologies, always aiming to improve and deliver impactful solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Abhishek%20Yadav&fontSize=68&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&stroke=A855F7&strokeWidth=2&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Specialist%20%E2%80%A2%2015%2B%20Projects%20Built&descSize=17&descAlignY=72&descColor=C084FC" width="100%"/>
- 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&height=55&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Full+Stack+Developer;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Full+Stack+Developer;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
 <br/>
  
 ![Open To Work](https://img.shields.io/badge/🟢_OPEN%20TO%20WORK-7B2FBE?style=for-the-badge&labelColor=0f0c29&color=7B2FBE&logoColor=white)
@@ -48,13 +45,13 @@ Copy
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/mohit823" target="_blank">
+  <a href="https://github.com/Abhishek-Coder-01/Abhishek-Coder-01/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mohit-verma-6b1452381/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-yadav-292ba9308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abhishekyadav@email.com">
+  <a href="mailto:abhishekyadav749994@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -128,23 +125,7 @@ Copy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit823&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="95%" />
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohit823/mohit823/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -154,8 +135,5 @@ Copy
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohit823&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
