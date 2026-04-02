@@ -1,9 +1,16 @@
 ## 💫 About Me:
-Hi, I'm Abhishek Yadav! I'm a passionate full-stack developer specializing in building modern web applications with a focus on both frontend and backend technologies. I love problem-solving and exploring new technologies, always aiming to improve and deliver impactful solutions.
+Hi, I'm Abhishek Yadav — a passionate MERN Stack Developer with hands-on experience in building modern, scalable web applications. I specialize in both frontend and backend development, creating seamless user experiences backed by efficient server-side logic.
+
+In addition to JavaScript technologies, I also have strong knowledge of Python and experience working with Flask for developing lightweight and powerful backend services and APIs.
+
+I enjoy solving complex problems, exploring new technologies, and continuously improving my skills to deliver impactful and high-quality solutions.
+
+
+
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Full+Stack+Developer;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=🔥+Building+the+Future%2C+One+Commit+at+a+Time;⚡+MERN+Stack+%7C+Full+Stack+Developer;🐍+Python+%7C+Flask+%7C+REST-APIs+%7C+Libraries;🚀+15%2B+Projects+Built+%26+Deployed;💡+Turning+Raw+Ideas+into+Real+Products)](https://git.io/typing-svg)
 <br/>
  
 ![Open To Work](https://img.shields.io/badge/🟢_OPEN%20TO%20WORK-7B2FBE?style=for-the-badge&labelColor=0f0c29&color=7B2FBE&logoColor=white)
