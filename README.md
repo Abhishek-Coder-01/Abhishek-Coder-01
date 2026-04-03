@@ -27,13 +27,16 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
 {
   "name"      : "Abhishek Yadav",
   "title"     : "Full Stack Developer",
-  "stack"     : "MERN",
+  "stack"     : "MERN + Python/Flask",
   "projects"  : "15+ Real-World Apps",
   "location"  : "India 🇮🇳",
   "available" : true,
   "learning"  : "System Design & Cloud",
+  "passion"   : "Scalable, clean & fast apps",
+  "goal"      : "Build impactful products at scale",
   "superpower": "Coffee ☕ → Code 💻"
 }
+
 ```
  
 <br/>
@@ -81,20 +84,21 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
@@ -111,16 +115,51 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
 
 ---
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 PDF_HUB</h3>
+      <p><b>All-in-one PDF toolkit</b> to edit, convert, compress, and secure documents.</p>
+      <p>✨ Features: Login authentication, fast processing, clean UI</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat-square"/>
+      </p>
+      <a href="https://frontend-pdf-khaki.vercel.app/">🚀 Live Demo</a> &nbsp;|&nbsp; 
+      <a href="#">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Expense Tracker (MERN)</h3>
+      <p><b>Track your daily expenses</b> with a full-stack MERN application.</p>
+      <p>📊 Features: Add/delete transactions, real-time updates, responsive UI</p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+      <a href="https://expense-tracker-mern-stack-frontend.vercel.app/">🚀 Live Demo</a> &nbsp;|&nbsp; 
+      <a href="#">💻 Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek-Coder-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mohit823&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhishek-Coder-01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Abhishek-Coder-01&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek-Coder-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhishek-Coder-01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -140,7 +179,7 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
 
 **👀 Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohit823&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 </div>
