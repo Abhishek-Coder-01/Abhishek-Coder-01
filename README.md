@@ -126,6 +126,12 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Auth-JWT-black?style=flat-square"/>
       </p>
+     <p>
+  🚀 <b>Frontend:</b> 
+  <img src="https://cdn.simpleicons.org/vercel/white" height="14"/> Vercel <br/>
+  ⚙️ <b>Backend:</b> 
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="14"/> Render
+</p>
       <a href="https://frontend-pdf-khaki.vercel.app/">🚀 Live Demo</a> &nbsp;|&nbsp; 
       <a href="#">💻 Code</a>
     </td>
@@ -139,6 +145,12 @@ I enjoy solving complex problems, exploring new technologies, and continuously i
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
+     <p>
+  🚀 <b>Frontend:</b> 
+  <img src="https://cdn.simpleicons.org/vercel/white" height="14"/> Vercel <br/>
+  ⚙️ <b>Backend:</b> 
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="14"/> Render
+</p>
       <a href="https://expense-tracker-mern-stack-frontend.vercel.app/">🚀 Live Demo</a> &nbsp;|&nbsp; 
       <a href="#">💻 Code</a>
     </td>
